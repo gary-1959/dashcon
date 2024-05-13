@@ -21,10 +21,10 @@ If it is of any use, I'll try to answer any questions.
 FutureNet DASH was a schematic capture program written for IBM DOS PCs released in the early 1980s
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/gary-1959/dashcon/main/images/dash-on-dosbox.png" alt="DASH Running on DOSBox/Windows 7" title="DASH Running on DOSBox/Windows 7">
+<img src="https://raw.githubusercontent.com/gary-1959/dashcon/main/images/dash-on-dosbox.png" alt="DASH Running on DOSBox/Windows 7" title="DASH Running on DOSBox/Windows 7"></p>
 
-DASH Running on DOSBox/Windows 7
-</p>
+<p align="center">DASH Running on DOSBox/Windows 7</p>
+
 
 It was an extremely expensive package - over $5000 at the time - and was written in assembler. After passing through various hands the software was released as version 6.10 in a de-restricted version, and we have made it available here as a download. You will need a DOS-based machine to run it, though we found it works on <a href = "http://www.dosbox.com/download.php?main=1" target="_blank">DOSBox</a>  quite well.
 
