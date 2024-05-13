@@ -1,7 +1,7 @@
 # DASHCON Dash File Converter
 Reads FutureNET DASH format files and converts to PDF.
 
-![FutureNET DASH Logo](https://github.com/gary-1959/dashcon/images/futurenet-1.png)
+![FutureNET DASH Logo](https://raw.githubusercontent.com/gary-1959/dashcon/main/images/futurenet-1.png)
 
 ## Overview
 Here is all the source files for a project I did some time ago for viewing and exporting to PDF files created using the old DOS circuit design program FutureNET DASH.
@@ -19,7 +19,7 @@ If it is of any use, I'll try to answer any questions.
 FutureNet DASH was a schematic capture program written for IBM DOS PCs released in the early 1980s
 
 
-![DASH Running on DOSBox/Windows 7](https://github.com/gary-1959/dashcon/images/dash-on-dosbox.png)
+![DASH Running on DOSBox/Windows 7](https://raw.githubusercontent.com/gary-1959/dashcon/main/images/dash-on-dosbox.png)
 
 DASH Running on DOSBox/Windows 7
 
@@ -27,7 +27,7 @@ It was an extremely expensive package - over $5000 at the time - and was written
 
 One thing you will notice is how small a screen of 800 x 600 looks, which is what DASH used to work in, but DOSBox allows you to enlarge the screen size. Refer to the DOSBox web site and help pages for more information.
 
-![DASHCON Displaying SAme File ](https://github.com/gary-1959/dashcon/images/dashcon-example.png)
+![DASHCON Displaying SAme File ](https://raw.githubusercontent.com/gary-1959/dashcon/main/images/dashcon-example.png)
 
 DASHCON Displaying Same File
 
