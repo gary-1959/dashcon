@@ -6,7 +6,7 @@ Reads FutureNET DASH format files and converts to PDF.
 </p>
 
 ## Overview
-Here is all the source files for a project I did some time ago for viewing and exporting to PDF files created using the old DOS circuit design program FutureNET DASH.
+Here are all the source files for a project I did some time ago for viewing and exporting to PDF files created using the old DOS circuit design program FutureNET DASH.
 
 It is written in C# for a Windows PC.
 
