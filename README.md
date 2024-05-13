@@ -31,10 +31,9 @@ It was an extremely expensive package - over $5000 at the time - and was written
 One thing you will notice is how small a screen of 800 x 600 looks, which is what DASH used to work in, but DOSBox allows you to enlarge the screen size. Refer to the DOSBox web site and help pages for more information.
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/gary-1959/dashcon/main/images/dashcon-example.png" alt="DASHCON Displaying Same File" title="DASHCON Displaying Same File">
+<img src="https://raw.githubusercontent.com/gary-1959/dashcon/main/images/dashcon-example.png" alt="DASHCON Displaying Same File" title="DASHCON Displaying Same File"></p>
 
-DASHCON Displaying Same File
-<p>
+<p align="center">DASHCON Displaying Same File</p>
 
 ## DASHCON File Viewer and Converter
 				
